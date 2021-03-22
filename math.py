@@ -17,4 +17,5 @@ def divide(x,y):
 #sqaure impl
 def sqaure(x):
     returnx*x
-
+def cube(x):
+   return x*x*x
