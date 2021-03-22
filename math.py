@@ -19,3 +19,8 @@ def sqaure(x):
     returnx*x*2
 def cube(x):
    return x*x*x
+def max(x,y):
+   if x>y:
+      return x
+   else 
+      return y
