@@ -13,6 +13,8 @@ def divide(x,y):
       return Divide_by_0_error
     else:
        return x/y
+
+#sqaure impl
 def sqaure(x):
     returnx*x
 
